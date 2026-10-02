@@ -1,3 +1,4 @@
 chat=5.0.0
 chatv2=1.0.0
 admin=1.0.0
+activity=1.0.0
