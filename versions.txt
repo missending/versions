@@ -4,3 +4,4 @@ admin=1.0.0
 activity=1.0.0
 pet=1.0.0
 love=1.0.0
+hopout = 1.0.0
